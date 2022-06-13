@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Manual/Automation Testing
 - 💞️ I’m looking to collaborate on anything that will help me learn more about Software Testing
-- 📫 How to reach me...
+- 📫 [How to reach me...](https://www.linkedin.com/in/stefan-kuzmanovski-405655b8/)
 
 <!---
 StefanGSS7/StefanGSS7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
