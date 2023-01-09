@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stefan
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Manual/Automation Testing
-- 💞️ I’m looking to collaborate on anything that will help me learn more about Software Testing
+- 👀 I’m interested in everything computers related
+- 🌱 I’m currently learning System Integration
+- 💞️ I’m looking to collaborate on anything that will help me learn more about Software Development
 - 📫 [How to reach me...](https://www.linkedin.com/in/stefan-kuzmanovski-405655b8/)
 
 <!---
